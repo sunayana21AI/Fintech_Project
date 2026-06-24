@@ -1,4 +1,4 @@
-# mutual-fund-risk-analysis
+# Mutual-fund-risk-analysis
 
 ## Project Overview
 
