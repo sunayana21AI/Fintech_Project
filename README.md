@@ -1,4 +1,4 @@
-# Bluestock Mutual Fund Analytics Project
+# mutual-fund-risk-analysis
 
 ## Project Overview
 
