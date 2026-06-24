@@ -382,7 +382,10 @@ The project combines data engineering, financial analytics, and visualization to
 It demonstrates how data-driven approaches can improve financial analysis and support better investment decisions.
 
 ---
+## 📊 Dashboard Preview
+<img width="1122" height="632" alt="MF_dashboard" src="https://github.com/user-attachments/assets/a1404776-e519-41e3-b54f-1ed756111ec5" />
+<img width="1121" height="633" alt="fund_analysis" src="https://github.com/user-attachments/assets/37d2ba39-b2df-4f9a-843e-c1dd480632ee" />
+<img width="1122" height="630" alt="Investor_analysis" src="https://github.com/user-attachments/assets/637c3dc1-aeb5-49c0-a9de-d48d0fd27d5f" />
+<img width="1122" height="627" alt="SIP Market_trends" src="https://github.com/user-attachments/assets/8f66fdfc-2e72-480a-a5a9-e9d5a8d6f5f1" />
 
-# Author
 
-Bluestock Mutual Fund Analytics Project
